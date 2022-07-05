@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    height: 500px;
+    padding: 150px;
+}
+.click {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(45deg, orange, rgb(226, 86, 25) );
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+}
